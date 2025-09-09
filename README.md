@@ -1,4 +1,4 @@
-## Aboout me
+## About me
 🎓 Senior Computer Software Engineering student at the **National University of Mar del Plata (Argentina)**  
 💻 Software Engineer | Machine Learning Engineer
 
