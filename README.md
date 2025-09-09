@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Tech & Tools
+## Tech & Tools
 - **Languages:** C, Java, Python, Go, Javascript, SQL  
 - **Data & ML:** BigQuery, XGBoost, TensorFlow/Keras, Prophet
 - **DevOps & Infra:** Docker, Linux, Bash, Cloud (GCP)  
@@ -12,13 +12,13 @@
 
 ---
 
-## 🌍 Beyond Tech
+## Beyond Tech
 - 💡 Interested in **corporate strategy, negotiations, and leadership**  
 - 📚 Lifelong learner who enjoys diving deep into both technical and non-technical fields  
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/mateosjuancruz/)  
 - 🐙 [GitHub](https://github.com/JuanCruzMateos)  
 - ✉️ Reach me at: juanczmt@gmail.com
