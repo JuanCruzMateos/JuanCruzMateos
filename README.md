@@ -1,7 +1,7 @@
 ## About me
 🎓 Senior Computer Software Engineering student at the **National University of Mar del Plata (Argentina)**  
 💻 Software Engineer | Machine Learning Engineer
-
+💡 My main insterests are Operating Systems, Distributed Systems, Data Bases and Computer Networks.
 ---
 
 ## Tech & Tools
